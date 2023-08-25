@@ -53,7 +53,7 @@ P. Acosta-Vargas, S. Luján-Mora and L. Salvador-Ullauri, "Evaluation of the web
 
 ## 1. Fichamento de Conteúdo
 
-O artigo discute a criação e o uso da "Mada Web Accessibility Monitor Tool" para avaliar a acessibilidade de sites governamentais no Catar. O objetivo é compreender o processo de teste e avaliação de acessibilidade e propor uma ferramenta de teste automatizada personalizada para tornar a manutenção dos padrões de acessibilidade na web menos complicada. Busca detectar melhorias e desenvolvimentos potenciais em relação às Diretrizes de Acessibilidade para Conteúdo da Web (WCAG) e propor soluções para que os desenvolvedores possam aderir aos padrões de acessibilidade. A ferramenta opera em fases, desde a seleção de sites governamentais até a avaliação automatizada de acessibilidade, geração de relatórios e classificação de sites de acordo com suas pontuações de acessibilidade. Utiliza o Google Lighthouse API para automatizar a verificação de conformidade com os padrões de acessibilidade. É apresentado uma compilação de resultados de acessibilidade para 84 sites governamentais e semi-governamentais do Catar. A pontuação média de acessibilidade é de 81,7%, e o artigo enfatiza a importância da melhoria contínua para atingir um alto nível de acessibilidade.
+O estudo em questão tem como objetivo avaliar a acessibilidade dos conteúdos presentes nos websites de 20 universidades de diversas partes do mundo. Visa verificar a conformidade desses websites com as diretrizes de acessibilidade estabelecidas nas Web Content Accessibility Guidelines 2.0 (WCAG 2.0) pelo World Wide Web Consortium (W3C). A pesquisa procura determinar se pessoas com deficiências conseguem acessar e utilizar os websites de universidades renomadas academicamente. Além disso, utiliza a Metodologia de Avaliação de Conformidade de Acessibilidade de Websites (WCAG-EM) como abordagem para avaliar o quão bem esses websites se alinham às diretrizes. Os resultados obtidos indicam que a maioria dos websites analisados não atende a um nível aceitável de conformidade com as diretrizes de acessibilidade. Surpreendentemente, as universidades de maior prestígio acadêmico não apresentam um nível de acessibilidade superior. A pesquisa identifica diversas barreiras que dificultam o acesso de um grande número de usuários aos websites. Destaca-se a necessidade de uma atenção maior ao design acessível para garantir que todos os usuários, independentemente de suas habilidades, possam acessar e utilizar os conteúdos online das universidades. O estudo também sugere futuras investigações sobre as melhores maneiras de implementar as diretrizes de acessibilidade em websites já existentes, buscando torná-los mais inclusivos.
 
 ## 2. Fichamento Bibliográfico 
 
@@ -62,13 +62,27 @@ O artigo discute a criação e o uso da "Mada Web Accessibility Monitor Tool" pa
 * _Typical session duration_ (duração média da sessão) é a quantidade de tempo seguido que o usuário permanece executando tarefas no projeto/sistema (página 54).
 * _Devoted time_ é o total de tempo que o voluntário permaneceu executando tarefas no sistema contando todas as suas participações, ou seja, somando as horas em todos os dias em que esteve ativo (página 54).
 
-## 3. Fichamento de Citações 
+## 3. Fichamento de Citações
 
-* _"The tool oriented towards testing these technical artifacts against SCs - rather than evaluating the user experience with specific impairments trying to complete specific tasks, it concern more about the best practice, semantic html, aria attributes, image description, all these give an impression of the website accessibility status"_
-* _"Mada Web Accessibility Monitor Tool (MWAMT) provides the automation solution for crawling and auditing web pages, toward generating a report shows passed and failed list of accessibility checklist, along with the accessibility score."_
-* _"For instance, the test reports a problem with labels form controls. If a label is defined the user of the checker is asked to verify that the label describes the purpose of the form control."_
-* _"The MWAMT benchmark is now calculated and defined as baseline. The appendix 1 showcased the status of web accessibility for 84 government and semi-government websites."_
-* _"Mada Web Accessibility Monitor Tool demonstrates a way to calculate the average score of web accessibility for government and semi-government websites in the State of Qatar toward enabling of persons with disabilities and the Elderly to access to websites and get benefit of government services through the web and mobile applications."_
+* _"At present, there are several tools available for
+assessment and verification of web accessibility, to
+automate the process of evaluating the accessibility of the
+web pages and value the level of compliance."_
+* _"The use of web accessibility evaluation tools is a
+widespread practice. Evaluation tools are heavily
+employed as they help in reducing the burden of
+identifying accessibility barriers."_
+* _"The universities that have more problems are: It is
+noted that the University of Pretoria, presents more
+problems, followed by Peking University and the
+University of São Paulo USP"_
+* _"The universities that have fewer problems are
+Eidgenössische Technische Hochschule ETH Zürich,
+followed by National Taiwan University and Universidad
+Nacional Autónoma de México. "_
+* _"The identified barriers may hinder or prevent access to
+contents to people who may have a physical or sensorial
+limitation"_
 
 **7**
 
