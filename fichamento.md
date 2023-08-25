@@ -8,11 +8,6 @@ O artigo ressalta que muitos websites não consideram a acessibilidade para pess
 
 ## 2. Fichamento Bibliográfico 
 
-* _Frequency_ (frequência) é o número de dias em que o voluntário esteve ativo executando tarefas no sistema/projeto (página 54).
-* _Daily productivity_ (produtividade diária) é a quantidade média de tarefas que o voluntário executa por dia em que está ativo (página 54).
-* _Typical session duration_ (duração média da sessão) é a quantidade de tempo seguido que o usuário permanece executando tarefas no projeto/sistema (página 54).
-* _Devoted time_ é o total de tempo que o voluntário permaneceu executando tarefas no sistema contando todas as suas participações, ou seja, somando as horas em todos os dias em que esteve ativo (página 54).
-
 ## 3. Fichamento de Citações 
 
 * _"The purpose of this study is to present a systematic review of the studies on accessibility analysis of websites with automated testing tools and to contribute to the increase in knowledge on the subject."_
@@ -33,10 +28,8 @@ O artigo discute a criação e o uso da "Mada Web Accessibility Monitor Tool" pa
 
 ## 2. Fichamento Bibliográfico 
 
-* _Frequency_ (frequência) é o número de dias em que o voluntário esteve ativo executando tarefas no sistema/projeto (página 54).
-* _Daily productivity_ (produtividade diária) é a quantidade média de tarefas que o voluntário executa por dia em que está ativo (página 54).
-* _Typical session duration_ (duração média da sessão) é a quantidade de tempo seguido que o usuário permanece executando tarefas no projeto/sistema (página 54).
-* _Devoted time_ é o total de tempo que o voluntário permaneceu executando tarefas no sistema contando todas as suas participações, ou seja, somando as horas em todos os dias em que esteve ativo (página 54).
+* _W3C_ - _World Wide Web Consortium_ organização internacional que desenvolve padrões e diretrizes técnicas para a WEB.
+* _WCAG_ - É um conjunto de diretrizes e recomendações desenvolvidas pelo W3C (World Wide Web Consortium) para tornar o conteúdo da web acessível a todas as pessoas, incluindo aquelas com deficiências.
 
 ## 3. Fichamento de Citações 
 
@@ -56,11 +49,6 @@ P. Acosta-Vargas, S. Luján-Mora and L. Salvador-Ullauri, "Evaluation of the web
 O estudo em questão tem como objetivo avaliar a acessibilidade dos conteúdos presentes nos websites de 20 universidades de diversas partes do mundo. Visa verificar a conformidade desses websites com as diretrizes de acessibilidade estabelecidas nas Web Content Accessibility Guidelines 2.0 (WCAG 2.0) pelo World Wide Web Consortium (W3C). A pesquisa procura determinar se pessoas com deficiências conseguem acessar e utilizar os websites de universidades renomadas academicamente. Além disso, utiliza a Metodologia de Avaliação de Conformidade de Acessibilidade de Websites (WCAG-EM) como abordagem para avaliar o quão bem esses websites se alinham às diretrizes. Os resultados obtidos indicam que a maioria dos websites analisados não atende a um nível aceitável de conformidade com as diretrizes de acessibilidade. Surpreendentemente, as universidades de maior prestígio acadêmico não apresentam um nível de acessibilidade superior. A pesquisa identifica diversas barreiras que dificultam o acesso de um grande número de usuários aos websites. Destaca-se a necessidade de uma atenção maior ao design acessível para garantir que todos os usuários, independentemente de suas habilidades, possam acessar e utilizar os conteúdos online das universidades. O estudo também sugere futuras investigações sobre as melhores maneiras de implementar as diretrizes de acessibilidade em websites já existentes, buscando torná-los mais inclusivos.
 
 ## 2. Fichamento Bibliográfico 
-
-* _Frequency_ (frequência) é o número de dias em que o voluntário esteve ativo executando tarefas no sistema/projeto (página 54).
-* _Daily productivity_ (produtividade diária) é a quantidade média de tarefas que o voluntário executa por dia em que está ativo (página 54).
-* _Typical session duration_ (duração média da sessão) é a quantidade de tempo seguido que o usuário permanece executando tarefas no projeto/sistema (página 54).
-* _Devoted time_ é o total de tempo que o voluntário permaneceu executando tarefas no sistema contando todas as suas participações, ou seja, somando as horas em todos os dias em que esteve ativo (página 54).
 
 ## 3. Fichamento de Citações
 
