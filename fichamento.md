@@ -88,23 +88,23 @@ ___
 
 **7**
 
-lorem ipsum
+S. M. Baños, B. C. L. Rubio, M. P. García, M. A. C. León and J. A. S. Bringas, "Design of a Conference Management System complying with Web Content Accessibility Guidelines," 2021 4th International Conference on Inclusive Technology and Education (CONTIE), La Paz, Mexico, 2021, pp. 190-194, doi: 10.1109/CONTIE54684.2021.00038.
 
 **8**
 
-lorem ipsum
+A. Sinha, "Web Accessibility Analysis on Government of India Websites based on WCAG," 2020 IEEE International IOT, Electronics and Mechatronics Conference (IEMTRONICS), Vancouver, BC, Canada, 2020, pp. 1-7, doi: 10.1109/IEMTRONICS51293.2020.9216445.
 
 **9**
 
-lorem ipsum
+S. U. Dongaonkar, R. S. Vadali and C. Dhutadmal, "Accessibility Analyzer: Tool for New Adaptations in Government Web Applications to Improve Accessibility," 2017 International Conference on Computing, Communication, Control and Automation (ICCUBEA), Pune, India, 2017, pp. 1-5, doi: 10.1109/ICCUBEA.2017.8463757.
 
 **10**
 
-lorem ipsum
+S. U. Dongaonkar, R. S. Vadali and C. Dhutadmal, "Accessibility Analyzer: Tool for New Adaptations in Government Web Applications to Improve Accessibility," 2017 International Conference on Computing, Communication, Control and Automation (ICCUBEA), Pune, India, 2017, pp. 1-5, doi: 10.1109/ICCUBEA.2017.8463757.
 
 **11**
 
-lorem ipsum
+F. Levi, P. Melo and U. de Lucena, "Accessibility Implementation Planning for Large Governmental Websites: a Case Study," 2006 Fourth Latin American Web Congress, Cholula, Mexico, 2006, pp. 113-118, doi: 10.1109/LA-WEB.2006.4.
 
 **12**
 
